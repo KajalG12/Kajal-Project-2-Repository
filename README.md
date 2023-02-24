@@ -12,3 +12,6 @@ Project Description:
 # Screenshots of projects :
 
 ![Power BI dashboard](https://user-images.githubusercontent.com/122545046/221122644-b64f63f4-c4ca-4f49-9cac-1d2c0cdc5ca7.png)
+
+![SQL Query](https://user-images.githubusercontent.com/122545046/221122904-09025d02-511e-487a-8311-780703e7bc7c.png)
+
