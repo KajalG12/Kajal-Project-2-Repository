@@ -1,5 +1,5 @@
 # Kajal-Project-2-Repository
-# Project Title: Analyzing Discounts on Electronic products Across Different Countries and Categories.
+# Project-2: Analyzing Discounts on Electronic products Across Different Countries and Categories.
 
 Project Description:
 * The goal of this project is to analyze the discounts offered on Different countries and categories, using data from workout wednesday, a weekly challenge to recreate data visulizations.
